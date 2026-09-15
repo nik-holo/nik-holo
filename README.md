@@ -11,8 +11,7 @@
 - 🏦 Backend engineer working on AI adoption and core products.
 - 🍎 Evenings go to **native macOS apps in Swift** — tiny tools that fix one annoyance each.
 - 🎮 Occasionally I ship a browser game and make local llms fight in it instead of sleeping.
-- 🇺🇦 Ukrainian, based in the EU 🇪🇺.
-- 📝 I keep an Obsidian vault for everything and probably over-document.
+
 
 ## 🚀 Things I made
 
