@@ -9,8 +9,6 @@
 ## 👋 About me
 
 - 🏦 Backend engineer working on AI adoption and core products.
-- 🍎 Evenings go to **native macOS apps in Swift** — tiny tools that fix one annoyance each.
-- 🎮 Occasionally I ship a browser game and make local llms fight in it instead of sleeping.
 
 
 ## 🚀 Things I made
