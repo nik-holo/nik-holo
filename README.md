@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://holo.red"><img src="https://img.shields.io/badge/holo.red-ff5c5c?style=for-the-badge&logo=firefox&logoColor=white" alt="holo.red"></a>
-  <a href="https://battlehex.holo.red"><img src="https://img.shields.io/badge/play_Battle_Hex-ffd15c?style=for-the-badge&logo=hexo&logoColor=0d1117" alt="Battle Hex"></a>
-  <img src="https://komarev.com/ghpvc/?username=nik-holo&style=for-the-badge&color=ff9a5c&label=visitors" alt="views">
-</p>
-
-<br>
 
 ## 👋 About me
 
